@@ -1,0 +1,4 @@
+The data sources were uploaded in databricks volumes in below mentioned paths because i faced issues with DBFS in DataBricks Free Edition.
+ORDERS_PATH = "/Volumes/workspace/sales_channel/input_data/Orders.json"
+CUSTOMERS_PATH = "/Volumes/workspace/sales_channel/input_data/Customer.xlsx"
+PRODUCTS_PATH = "/Volumes/workspace/sales_channel/input_data/Products.csv"
